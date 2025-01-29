@@ -1,1 +1,1 @@
-# Exercícios com scrapy
+# Exercícios com scrapy e QRcode
