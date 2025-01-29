@@ -1,2 +1,9 @@
+images/
+
+# environment
 .venv/
 .vscode/
+
+# python
+__pycache__/
+*.pyc
